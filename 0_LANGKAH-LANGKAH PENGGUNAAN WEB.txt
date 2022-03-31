@@ -1,0 +1,9 @@
+PROSEDUR PENGGUNAAN WEB
+
+*Tampilan awal diarahkan pada halaman index
+1. untuk melihat jadwal, kelas,trayek, dan about us tidak perlu melakukan Login. Sedangkan untuk mengakses halaman ticketing buat akun terlebih dahulu.
+2.  jika user belum memiliki akun dan ingin memesan tiket, lakukan register terlebih dahulu.
+
+*(Ticketing)
+1. pilihan kelas ekonomi hanya dapat memilih kota asal dan tujuan disekitarnya (surabaya-solo-yogyakarta)
+2. pilihan kelas eksekutif dapat memilih kota yang lebih bervariasi. tetapi, harus disesuaikan dengan trayek yang ada. namun hanya dapat memilih kota asal di surabaya saja. sedangkan tujuannya disesuaikan dengan trayek yang ada.
